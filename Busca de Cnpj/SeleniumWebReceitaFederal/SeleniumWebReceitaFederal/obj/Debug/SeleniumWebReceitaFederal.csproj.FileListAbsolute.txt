@@ -1,0 +1,16 @@
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\bin\Debug\SeleniumWebReceitaFederal.exe.config
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\bin\Debug\SeleniumWebReceitaFederal.exe
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\bin\Debug\SeleniumWebReceitaFederal.pdb
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\bin\Debug\WebDriver.dll
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\bin\Debug\WebDriver.xml
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\obj\Debug\SeleniumWebReceitaFederal.csprojAssemblyReference.cache
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\obj\Debug\SeleniumWebReceitaFederal.Form1.resources
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\obj\Debug\SeleniumWebReceitaFederal.Properties.Resources.resources
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\obj\Debug\SeleniumWebReceitaFederal.csproj.GenerateResource.cache
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\obj\Debug\SeleniumWebReceitaFederal.csproj.CoreCompileInputs.cache
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\obj\Debug\SeleniumWebReceitaFederal.csproj.CopyComplete
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\obj\Debug\SeleniumWebReceitaFederal.exe
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\obj\Debug\SeleniumWebReceitaFederal.pdb
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\bin\Debug\Ionic.Zip.dll
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\SeleniumWebReceitaFederal\bin\Debug\phantomjs.exe

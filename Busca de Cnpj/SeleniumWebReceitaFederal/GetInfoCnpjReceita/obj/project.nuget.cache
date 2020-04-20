@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "aAWRIkuYzjP8EEwPeIfjw50TVC9SgYwJsPiodAuh/TOGziLh/VPdWWAO8PS2UqlqsrRLnkFfBYZYgYyIU4q5JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulinho\\source\\repos\\SeleniumWebReceitaFederal\\GetInfoCnpjReceita\\GetInfoCnpjReceita.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulinho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Paulinho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Paulinho\\.nuget\\packages\\selenium.webdriver.phantomjs.xplatform\\2.45.0.1\\selenium.webdriver.phantomjs.xplatform.2.45.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Selenium.WebDriver.PhantomJS.Xplatform 2.45.0.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETStandard,Version=v2.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Selenium.WebDriver.PhantomJS.Xplatform",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

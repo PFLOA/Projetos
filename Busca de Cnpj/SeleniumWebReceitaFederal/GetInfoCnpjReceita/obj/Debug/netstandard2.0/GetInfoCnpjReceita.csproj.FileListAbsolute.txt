@@ -1,0 +1,10 @@
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\GetInfoCnpjReceita\bin\Debug\netstandard2.0\phantomjs.exe
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\GetInfoCnpjReceita\bin\Debug\netstandard2.0\GetInfoCnpjReceita.deps.json
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\GetInfoCnpjReceita\bin\Debug\netstandard2.0\GetInfoCnpjReceita.dll
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\GetInfoCnpjReceita\bin\Debug\netstandard2.0\Ionic.Zip.dll
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\GetInfoCnpjReceita\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\GetInfoCnpjReceita\bin\Debug\netstandard2.0\WebDriver.dll
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\GetInfoCnpjReceita\obj\Debug\netstandard2.0\GetInfoCnpjReceita.csprojAssemblyReference.cache
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\GetInfoCnpjReceita\obj\Debug\netstandard2.0\GetInfoCnpjReceita.AssemblyInfoInputs.cache
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\GetInfoCnpjReceita\obj\Debug\netstandard2.0\GetInfoCnpjReceita.AssemblyInfo.cs
+C:\Users\Paulinho\source\repos\SeleniumWebReceitaFederal\GetInfoCnpjReceita\obj\Debug\netstandard2.0\GetInfoCnpjReceita.csproj.CopyComplete
